@@ -1,0 +1,20 @@
+.widcard{
+  width: 500px;
+  height: 300px;
+  margin-top: 60px;
+  margin-left: 150px;
+  margin-right: 60px;
+
+  
+}
+.cardarr{
+  display: flex;
+  flex-wrap: wrap;
+}
+.spac{
+  margin-left: 980px;
+  
+}
+.spac:hover{
+  opacity: 10px;
+}
